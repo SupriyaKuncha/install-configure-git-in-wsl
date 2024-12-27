@@ -1,0 +1,5 @@
+this file is created using nano
+how to save and exit in nano
+- To save the changes you've made to your file, press `Ctrl + O`. 
+– Nano will ask for the file name. If you're saving the current file, just press `Enter`.
+– To exit Nano, press the button `Ctrl + X

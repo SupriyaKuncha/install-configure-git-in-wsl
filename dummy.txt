@@ -1,0 +1,6 @@
+this is a dummy created using vim
+how to save vim file: 
+1) press esc
+2) type :wq!
+wq: 'wq' is the command to write (save) and quit the editor. 
+!: The exclamation mark is used to force the command to execute, overriding any warnings or prompts.
